@@ -1,0 +1,30 @@
+D:\New folder\do an tin hoc 6tr\do an tin hoc 6tr\bin\Debug\do an tin hoc 6tr.exe.config
+D:\New folder\do an tin hoc 6tr\do an tin hoc 6tr\bin\Debug\do an tin hoc 6tr.exe
+D:\New folder\do an tin hoc 6tr\do an tin hoc 6tr\bin\Debug\do an tin hoc 6tr.pdb
+D:\New folder\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do an tin hoc 6tr.csproj.AssemblyReference.cache
+D:\New folder\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do an tin hoc 6tr.csproj.SuggestedBindingRedirects.cache
+D:\New folder\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do_an_tin_hoc_6tr.Properties.Resources.resources
+D:\New folder\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do an tin hoc 6tr.csproj.GenerateResource.cache
+D:\New folder\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do an tin hoc 6tr.csproj.CoreCompileInputs.cache
+D:\New folder\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do an tin hoc 6tr.exe
+D:\New folder\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do an tin hoc 6tr.pdb
+D:\New folder\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do_an_tin_hoc_6tr.fdangnhap.resources
+D:\New folder\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do_an_tin_hoc_6tr.fchuongtrinh.resources
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\bin\Debug\do an tin hoc 6tr.exe.config
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\bin\Debug\do an tin hoc 6tr.exe
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\bin\Debug\do an tin hoc 6tr.pdb
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do an tin hoc 6tr.csproj.AssemblyReference.cache
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do_an_tin_hoc_6tr.fdangnhap.resources
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do_an_tin_hoc_6tr.fchuongtrinh.resources
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do_an_tin_hoc_6tr.fthongtin.resources
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do_an_tin_hoc_6tr.Properties.Resources.resources
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do an tin hoc 6tr.csproj.GenerateResource.cache
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do an tin hoc 6tr.csproj.CoreCompileInputs.cache
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do an tin hoc 6tr.exe
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do an tin hoc 6tr.pdb
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do_an_tin_hoc_6tr.fnhanvien.resources
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do_an_tin_hoc_6tr.fmuonsach.resources
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do_an_tin_hoc_6tr.view.fdanhsachdocgia.resources
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do_an_tin_hoc_6tr.view.fthongtindogia.resources
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do_an_tin_hoc_6tr.fquanlymuonsach.resources
+D:\nam 3\do an tin hoc 6tr\do an tin hoc 6tr\obj\Debug\do_an_tin_hoc_6tr.view.cs.resources
